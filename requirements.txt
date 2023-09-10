@@ -1,0 +1,6 @@
+asyncio
+datetime
+pyfiglet
+playsound
+discord.py-self
+python3-anticaptcha

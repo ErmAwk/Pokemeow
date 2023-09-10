@@ -1,0 +1,50 @@
+{   
+    "general": {
+        "token": "",
+        "userid": ,
+        "hunting": "enable",
+        "channelid": ,
+        "fishing": "disable",
+        "fishchannelid": 696996969969696996,
+        "anticaptcha_token": "",
+        "captcha_solver": "disable",
+        "captcha_notifier": "disable",
+        "eggs": "enable",
+        "autobuy": "disable"
+    },
+
+    "cooldowns": {
+        "huntcooldown": 7.9,
+        "fishcooldown": 22.5,
+        "ballcooldown": 0.5
+    },
+
+    "rarities": {
+        "Common": "pb",
+        "Uncommon": "pb",
+        "Rare": "gb",
+        "Super Rare": "gb",
+        "Alolan": "mb",
+        "Cheap_legendary": "gb",
+        "Legendary": "mb",
+        "Shiny": "mb",
+        "Full_odds": "ub"
+    },
+
+    "fishrarities": {
+        "Common": "ub",
+        "Uncommon": "ub",
+        "Rare": "ub",
+        "Super Rare": "ub",
+        "Legendary": "mb",
+        "Shiny": "mb",
+        "Golden": "mb"
+    },
+
+    "autobuy": {
+        "pokeball": 1000,
+        "greatball": 500,
+        "ultraball": 100,
+        "masterball": 5
+    }
+}
